@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <groundnet>
     <parkingList>
-      <Parking index="0" type="gate" name="E001" lat="N53 55.26 " lon="E12 17.91" heading="100.000000" />
-      <Parking index="1" type="gate" name="E002" lat="N53 55.29 " lon="E12 17.91" heading="100.000000" />
-      <Parking index="2" type="gate" name="E003" lat="N53 55.32 " lon="E12 17.91" heading="100.000000" />
-      <Parking index="3" type="gate" name="E004" lat="N53 55.35 " lon="E12 17.91" heading="100.000000" />
-      <Parking index="4" type="gate" name="E005" lat="N53 55.38" lon="E12 17.91" heading="100.000000" />  
+      <Parking index="0" type="gate" name="E001" lat="N53 55.26 " lon="E12 17.91" heading="264.000000" />
+      <Parking index="1" type="gate" name="E002" lat="N53 55.29 " lon="E12 17.91" heading="264.000000" />
+      <Parking index="2" type="gate" name="E003" lat="N53 55.32 " lon="E12 17.91" heading="264.000000" />
+      <Parking index="3" type="gate" name="E004" lat="N53 55.35 " lon="E12 17.91" heading="264.000000" />
+      <Parking index="4" type="gate" name="E005" lat="N53 55.38" lon="E12 17.91" heading="264.000000" />  
     </parkingList>
 </groundnet>
